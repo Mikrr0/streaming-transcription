@@ -1,0 +1,26 @@
+# Entorno virtual y caché
+.venv/
+__pycache__/
+*.py[cod]
+
+# Variables de entorno
+.env
+.env.*
+
+# Archivos multimedia de pruebas
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.mp4
+*.mkv
+
+# Archivos del sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Archivos de VS Code
+.vscode/
